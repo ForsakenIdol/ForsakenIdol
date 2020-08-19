@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 **Here's a couple of things I'm currently interested in!**
 
-- 🌱 I’m currently learning Cybersecurity, AI, and Web Development
+- 🌱 I’m currently learning Cybersecurity, AI, and Project Management.
+- 😄 I enjoy full-stack Web Development the most in Software Engineering.
 - 🤔 I’m interested to explore Docker, C# (.NET), and PHP.
 - 🔭 Outside of the Software Engineering realm, I'm interested in DaVinci Resolve, Blender, Abelton / Music Production, Arduino, and Rasberry Pi.
 - ⚡ Fun fact: I've been to 5 different continents!
