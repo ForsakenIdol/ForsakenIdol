@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Here's a couple of things I'm currently interested in!**
 
-- 🌱 I’m an ex-Roy Hill employee currently studying Honours full-time at UWA.
+- 🌱 I'm a Cloud Support Engineer with AWS specializing in Container Deployments.
 - 😄 I enjoy full-stack Web Development the most in Software Engineering.
 - 🤔 I’m interested to explore C# (.NET) and PHP. I'm currently learning the React.js framework and using it to refactor my blog as a standalone program.
 - 🔭 Outside of the Software Engineering realm, I'm interested in DaVinci Resolve, Blender, and Abelton / Music Production.
