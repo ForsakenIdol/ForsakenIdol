@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm a Cloud Support Engineer with AWS specializing in Container Deployments.
 - 😄 I enjoy full-stack Web Development the most in Software Engineering.
-- 🤔 I’m interested to explore C# (.NET) and PHP. I'm currently learning the React.js framework and using it to refactor my blog as a standalone program.
+- 🤔 I'm currently working on a guide for distributed system observability with OpenTelemetry.
 - 🔭 Outside of the Software Engineering realm, I'm interested in DaVinci Resolve, Blender, and Abelton / Music Production.
 - ⚡ Fun fact: I've been to 4 different continents and 9 different countries!
 
